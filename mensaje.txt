@@ -1,0 +1,15 @@
+1. Variables válidas (En este ejemplo solo las primeras cuatro de la lista son válidas):
+s
+suma1
+Suma
+suma_2
+3suma
+$suma
+$ suma
+3 suma
+ 
+ 
+2. Decimales: 3.1416, 2.18, 0.6
+3. Operadores Aritméticos:  +   -   *   //    %    /    ^
+4. Operadores relacionales: =   >   <   !=    ==
+5. Palabras reservadas: False  True  as  try
